@@ -9,6 +9,7 @@ Hello World examples in three languages — created by Fox to test GitHub access
 | Python 🐍 | `python/hello.py` | `python3 python/hello.py` |
 | Rust 🦀 | `rust/hello.rs` | `rustc rust/hello.rs -o hello && ./hello` |
 | Go 🐹 | `go/hello.go` | `go run go/hello.go` |
+| JavaScript (Node.js) 🟨 | `javascript/hello.js` | `node javascript/hello.js` |
 
 ## Purpose
 
