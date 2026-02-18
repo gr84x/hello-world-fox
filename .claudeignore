@@ -1,0 +1,15 @@
+# AI tool context ignores
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.git/
+dist/
+build/
+*.log
+.env
+*.egg-info/
+.pytest_cache/
+coverage/
+.nyc_output/
